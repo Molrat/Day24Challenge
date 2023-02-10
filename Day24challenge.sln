@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day24challenge", "Day24challenge\Day24challenge.csproj", "{1D88865D-1354-49E3-A3CE-8790A7474774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D88865D-1354-49E3-A3CE-8790A7474774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D88865D-1354-49E3-A3CE-8790A7474774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D88865D-1354-49E3-A3CE-8790A7474774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D88865D-1354-49E3-A3CE-8790A7474774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CBF926A-1902-46E3-879A-8A01D86EBE36}
+	EndGlobalSection
+EndGlobal
